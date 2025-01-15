@@ -1,0 +1,3 @@
+0 Semut Hitam
+1 Semut Api
+2 Semut Firaun
